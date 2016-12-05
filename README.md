@@ -1,4 +1,4 @@
-# Auto Layout with Dicee Starting Project (Video Tutorials)\
+# Auto Layout with Dicee Starting Project (Video Tutorials)
 Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Dicee+ App
 
 Download the starter project files as .zip and extract to your desktop. --->
